@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mahtso
+- 👀 I’m interested in DWM source code
+- 🌱 I’m currently learning C
+- Going to college for cybersecurity and some programming on the side. Big Gentoo Linux fan.
